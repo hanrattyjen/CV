@@ -39,7 +39,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 * Fundamentals of Object Oriented Programming
 * Self-sufficient but totally into asking for help when needed!
-* Instead of being taught a language (which we of course are), we are taught **how** to learn a language.
+* Instead of being taught a language (which we of course are), we are also taught **how** to learn a language which is possibly the most exciting part!
 * Ruby, Sinatra, Rails, JavaScript, Node.js, Angular.js, AJAX, JQuery, HTML, CSS, Git.
 * Agile principles - XP, Software Craftsmanship, TDD, BDD
 * Working closely within a team
@@ -56,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-* Co-organiser and sometimes coach of Django Girls Belfast. This has been a hugely rewarding experience and I've met loads of really cool people out of it.
+* Co-organiser and sometimes coach of Django Girls Belfast. This is something I'm quite proud to be part of. We have created a nice little community in Belfast through Django Girls and I've met some really cool people!
 
 **Pengin Ltd** Jan 2012 -Sept 2015
 *Finance Officer*
