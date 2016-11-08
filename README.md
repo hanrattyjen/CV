@@ -52,6 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * Queens University Belfast 2001-2003 - N/a - Mathematics
 
 #### Any other qualifications
+* Front End Web Development track on Treehouse
 * Microsoft Technology Associate: HTML5 Application Development Fundamentals - June 2016
 
 ## Experience
