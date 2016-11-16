@@ -1,12 +1,16 @@
 ## Jennifer Hanratty
 
-A Junior Software Developer who wants to continue to learn more and more and more, developing and broadening her skills in agile environments.
+I am a Junior Software Developer who wants to continue to learn more and more and more, developing and broadening my skills in agile environments.
 
-After taking some time out to be at home with 3 awesome little people, I wanted to get back to work and realised that what I had done before no longer interested me.
+After taking some time out to be at home with 3 awesome little people and after realising that what I had done before wasn't quite what I was interested in anymore, I decided to change things up a bit.
 
-I am currently enrolled in the Makers Academy Remote course, aiming to re-skill myself and change careers completely.
+It took me a while to figure out what exactly I wanted to do with my life. I love learning, I love maths and figuring out problems.
 
-I have a real love of learning, which translates well into the work I've done this year.
+I began my coding journey almost accidentally. I did some maths courses online just to get my brain working and this led to me finding some online coding courses. I had discounted the idea of a career in the tech industry as I assumed, as most people do, that you need a Computer Science degree for that. It was only after messing around with code for a few months, talking to people and attending MeetUps, that I realised that this was something I could actually do as a full-time job. It all took off from there..
+
+I am currently enrolled in the Makers Academy Remote course, at level complete of re-skilling myself and changing careers completely.
+
+I am also involved with Django Girls Belfast, who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop - every time we run it we increase our numbers of applicants. It's really exciting.
 
 #### What I am
 
@@ -16,41 +20,42 @@ I have a real love of learning, which translates well into the work I've done th
 
 I have a [blog](https://medium.com/@hanratty.jen) that is updated weekly(ish!).
 
-
 ## Skills
 
 #### Technical skills
 
-* Agile practices
-* TDD, BDD
-* Pair programming
+* Agile practices, such as TDD, BDD and Pair Programming.
 * Ruby
 * Ruby on Rails
 * Sinatra
-* Rspec, Cucumber, Capybara
-* Javascript
-* REST APIs and microservice architectures
+* Unit testing and test automation with Rspec, Cucumber & Capybara
+* JavaScript
+* JQuery
+* REST APIs
+* Microservice architectures
 * HTML5, CSS3, Bootstrap, Pure
 
 ## Education
 
 #### Makers Academy (September - December 2016)
 
-* Instead of being taught a language (which we of course are), we are also seen as language-agnostic, and maybe more importantly, taught **how** to learn a language. This is really cool!
+* Instead of being taught a language (which we of course are), we are also seen as language-agnostic and taught **how** to learn a language. This is really cool!
+* We are also involved in teamwork, best practice, TDD, agile, communication, delivering value to a user - and, most importantly, independent problem-solving.
 * Fundamentals of Object Oriented Programming.
-* Self-sufficient but totally into asking for help when needed!
+* Self-sufficient but can for help when needed!
 * Ruby, Sinatra, Rails, JavaScript, Node.js, AJAX, JQuery, HTML, CSS, Git.
 * Agile principles - XP, Software Craftsmanship, TDD, BDD.
-* Working closely within a team.
 * Testing frameworks - Rspec, Jasmine, Mocha.
-
+* Made a lot of use of open source - practically everything we have used has been open source.
 
 #### Queens University Belfast (2007-2011)
 
 * BSc Business Economics - 2.1
+* Some useful modules included Game Theory, Statistics, Advanced Micro & Macro Economics, Marketing, International Business.
 
 #### Queens University Belfast (2001-2003)
 * BSc Mathematics - N/a
+* For reasons, I sadly did not complete my degree. However I picked up some really useful skills and interests during my time, such as Mathematical Reasoning, Functions & Numerical Analysis, Calculus, Set Theory, Statistics and Operational Research.
 
 #### Other qualifications
 * Front End Web Development track on Treehouse
@@ -61,9 +66,9 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated weekly(ish!).
 
 #### Skills
 
-Got lots of new mad skills. By the end of week 6, my group of 4 people had built an airBnb clone using Ruby and Sinatra, all fully-tested and working and looking good. This has increased my confidence so much.
+Got lots of new mad skills. By the end of week 6, our group of 4 people had built an airBnb clone called [makersBnB](https://github.com/hanrattyjen/makersbnb) using Ruby and Sinatra, all fully-tested and working and looking good.
 
-Now that I know what can be done in only a few days, I'm so excited to see what I can achieve in the next 6 weeks, 6 months and 6 years.
+This increased my confidence a lot and now that I know what can be done in only a few days, I'm very excited to see what I can achieve in the next 6 weeks, 6 months and 6 years.
 
 #### Focus
 
@@ -71,7 +76,7 @@ I was self-taught pre-Makers. I had been learning for almost a year before I sta
 
 I found however that the more I learned, the more I could see how much there actually was out there and I got suckered into going too many directions, not really knowing the best path to follow.
 
-Of course I know that there is no set *best* path to follow, but Makers did enable me to refine my learning and to provide the best possible way for me to continue post-course on my own.
+Whilst I know that there is no set *best* path to follow, Makers did enable me to refine my learning and to provide the best possible way for me to continue post-course on my own.
 
 #### New relationships
 
@@ -86,15 +91,13 @@ The use of XP meant that we were assigned a new pair partner every single day. T
 
 #### Pengin Ltd Jan 2012 -Sept 2015
 *Finance Officer*
-* Preparing finances for quarterly and end of year processing, including VAT returns & PAYE.
-*	Manage financial data and produce management accounts and reports.
+* Preparing finances for quarterly and end of year processing, including VAT returns & PAYE, managing financial data.
 
 #### Happening Creative Communications Jun 2008 -Aug 2010
 *Events & Accounts Administrator*
-*	Preparing finances for quarterly and end of year processing, including VAT returns & PAYE.
-*	Providing event finance support, payment processing and managing budgets.
+*	Preparing finances for quarterly and end of year processing, including VAT returns & PAYE, managing budgets.
 *	Website, delegate and sponsor management.
 
 #### Macmillan Cancer Support Sept 2006 - Jan 2008
 *Office Manager*
-* Use of content management system to maintain project data, manage income and maintain donor information in a data sensitive manner.
+* Maintain project data, manage income and maintain donor information in a data sensitive manner.
