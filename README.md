@@ -29,6 +29,8 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated weekly(ish!).
 * Ruby on Rails
 * Sinatra
 * Unit testing and test automation with Rspec, Cucumber & Capybara
+* DataMapper
+* Postgresql
 * JavaScript
 * JQuery
 * Python
