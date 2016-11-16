@@ -1,6 +1,6 @@
 ## Jennifer Hanratty
 
-I am a Junior Software Developer who wants to continue to learn more and more and more, developing and broadening my skills in agile environments.
+I am a Junior Software Developer who wants to continue to learning as much as I can, developing and broadening my skills in agile environments.
 
 After taking some time out to be at home with 3 awesome little people and after realising that what I had done before wasn't quite what I was interested in anymore, I decided to change things up a bit.
 
