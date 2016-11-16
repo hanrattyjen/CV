@@ -31,6 +31,7 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated weekly(ish!).
 * Unit testing and test automation with Rspec, Cucumber & Capybara
 * JavaScript
 * JQuery
+* Python
 * REST APIs
 * Microservice architectures
 * HTML5, CSS3, Bootstrap, Pure
@@ -44,7 +45,6 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated weekly(ish!).
 * Fundamentals of Object Oriented Programming.
 * Self-sufficient but can for help when needed!
 * Ruby, Sinatra, Rails, JavaScript, Node.js, AJAX, JQuery, HTML, CSS, Git.
-* Agile principles - XP, Software Craftsmanship, TDD, BDD.
 * Testing frameworks - Rspec, Jasmine, Mocha.
 * Made a lot of use of open source - practically everything we have used has been open source.
 
