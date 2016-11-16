@@ -12,7 +12,7 @@ I have a real love of learning, which translates well into the work I've done th
 
 * Incredibly motivated to learn all that I can get my hands on.
 * Curious about how everything works and what I can do to contribute to it.
-* Organised & practical - really boring traits but I am one of the most organised people I know. 3 children + Makers Academy === a need to be completely organised all of the time!
+* Organised & practical - really boring traits but I am one of the most organised people I know. 3 small children + Makers Academy === a need to be completely organised all of the time!
 
 I have a [blog](https://medium.com/@hanratty.jen) that is updated weekly(ish!).
 
@@ -36,12 +36,12 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated weekly(ish!).
 
 #### Makers Academy (September - December 2016)
 
-* Fundamentals of Object Oriented Programming
+* Instead of being taught a language (which we of course are), we are also seen as language-agnostic, and maybe more importantly, taught **how** to learn a language. This is really cool!
+* Fundamentals of Object Oriented Programming.
 * Self-sufficient but totally into asking for help when needed!
-* Instead of being taught a language (which we of course are), we are also taught **how** to learn a language which is possibly the most exciting part!
-* Ruby, Sinatra, Rails, JavaScript, Node.js, Angular.js, AJAX, JQuery, HTML, CSS, Git.
-* Agile principles - XP, Software Craftsmanship, TDD, BDD
-* Working closely within a team
+* Ruby, Sinatra, Rails, JavaScript, Node.js, AJAX, JQuery, HTML, CSS, Git.
+* Agile principles - XP, Software Craftsmanship, TDD, BDD.
+* Working closely within a team.
 * Testing frameworks - Rspec, Jasmine, Mocha.
 
 
