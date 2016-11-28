@@ -20,7 +20,7 @@ I am also involved with [Django Girls Belfast](https://djangogirls.org/belfast/)
 * Curious about how the world works and what I can do to contribute to it.
 * Organised & practical. 3 small children + Makers Academy === a need to be completely organised all of the time!
 
-I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly.
+I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And you can find me on [LinkedIn](https://www.linkedin.com/in/jennifer-hanratty-6977b8109).
 
 ## Skills
 
@@ -30,13 +30,14 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly.
 * Ruby
 * Sinatra
 * Ruby on Rails
+* Python
+* Django
 * Unit testing and test automation with Rspec, Cucumber & Capybara
 * HTML5, CSS3, Bootstrap, Pure
 * Postgresql
 * DataMapper
 * JavaScript
 * JQuery
-* Python
 * REST APIs
 * Microservice architectures
 
@@ -92,7 +93,7 @@ The use of XP practices meant that we were assigned a new pair partner every sin
 ## Experience
 
 #### Django Girls Belfast Volunteer January 2016 - present
-* Co-organiser and sometimes coach of Django Girls Belfast. We have created a nice little community in Belfast through Django Girls and I've met some really cool people!
+* Co-organiser and coach of Django Girls Belfast. We have created a nice little community in Belfast through Django Girls and I've met some really cool people!
 
 #### Pengin Ltd January 2012 - September 2015
 *Finance Officer*
