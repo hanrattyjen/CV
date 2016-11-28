@@ -34,7 +34,7 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And
 * Django
 * Unit testing and test automation with Rspec, Cucumber & Capybara
 * HTML5, CSS3, Bootstrap, Pure
-* Postgresql
+* Postgres
 * DataMapper
 * JavaScript
 * JQuery
@@ -45,10 +45,10 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And
 
 #### Makers Academy (September - December 2016)
 
-* Instead of being taught a language (which we of course are), we are also seen as language-agnostic and taught **how** to learn a language. This is really cool!
-* We are also involved in teamwork, best practice, TDD, agile, communication, delivering value to a user - and, most importantly, independent problem-solving.
+* Instead of being taught a language (which we of course are), we are also seen as language-agnostic and taught **how** to learn a language and write clean, readable code.
+* We are also involved in teamwork, code reviews, best practice, TDD, agile, communication, delivering value to a user - and, most importantly, independent problem-solving.
 * Fundamentals of Object Oriented Programming.
-* Self-sufficient, can for help when needed.
+* Self-sufficient, can ask for help when needed.
 * Ruby, Sinatra, Rails, JavaScript, Node.js, AJAX, JQuery, HTML, CSS, Git.
 * Testing frameworks such as Rspec, Jasmine. Writing our own testing framework.
 * Made a lot of use of open source - everything we have used has been open source.
