@@ -12,7 +12,7 @@ I began my coding journey almost accidentally. I did some maths courses online a
 
 I am currently enrolled in the Makers Academy Remote course, 90% at level complete of re-skilling myself completely.
 
-I am involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop eve - it's amazing!
+I am involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop - it's amazing!
 
 #### What I am
 
