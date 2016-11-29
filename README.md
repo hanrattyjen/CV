@@ -93,20 +93,20 @@ All projects involved a front-end using HTML5, CSS and CSS templates such as Boo
 #### Django Girls Belfast Volunteer January 2016 - present
 * Co-organiser and coach of Django Girls Belfast. We have created a nice little community in Belfast through Django Girls and I've met some really cool people!
 
-#### Pengin Ltd January 2012 - September 2015
+##### Pengin Ltd January 2012 - September 2015
 *Finance Officer*
 * Preparing finances for quarterly and end of year processing, including VAT returns & PAYE, managing financial data.
 
-#### Happening Creative Communications June 2008 -August 2010
+##### Happening Creative Communications June 2008 -August 2010
 *Events & Accounts Administrator*
 *	Preparing finances for quarterly and end of year processing, including VAT returns & PAYE, managing budgets.
 *	Website, delegate and sponsor management.
 
-#### Macmillan Cancer Support September 2006 - January 2008
+##### Macmillan Cancer Support September 2006 - January 2008
 *Office Manager*
 * Maintain project data, manage income and maintain donor information in a data sensitive manner.
 
 ## Personal Projects
 
-#### Hack the Hub event September 2016
+##### Hack the Hub event September 2016
 * Our group of 4 spent the day building a web application called [Volunteer Me](https://hth-volunteer.herokuapp.com/) to make Belfast better. We made use of Open Data NI to build a social network that could bring together volunteers and charities in a fun way and make better use of the amazing people that live in Northern Ireland. This was a fun and eye-opening day. Being surrounded by so much talent was really great and provided a lot of inspiration as to the type of developer I would like to become.
