@@ -46,13 +46,13 @@ I've met so many new people from Makers Academy. I assumed that a remote course 
 The use of XP practices meant that we were assigned a new pair partner every single day. This was quite a daunting thought at the start of the course but it is something that I really got a lot out of and I think it helped progress our learning a lot more than if we were on our own.
 
 #### <a name="projects"></a> Projects
-|Projects   |What is it?	| Timescale | Tech used  |  Team | Link  |
-|---|---|---|---|---|---|
-| Unchained  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Github](https://github.com/hanrattyjen/unchained_blog)   |
-|  Yelp  | Yelp clone|  5 days | Rails, ActiveRecord, Unit testing and test automation with Rspec, Cucumber & Capybara  |  2 |  [Github](https://github.com/hanrattyjen/yelp) |
-|  Makers Bnb |Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  | [Github](https://github.com/hanrattyjen/makersbnb)  |
-|  Makstagram | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara   | Solo  | [Github](https://github.com/hanrattyjen/instagram-challenge)  |
-|Chitter |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. [Deployed to Heroku](https://chitter-chitter-bang-bang.herokuapp.com/) |Solo |[Github](https://github.com/hanrattyjen/chitter-challenge)|
+|Projects   |What is it?	| Timescale | Tech used  |  Team | Github Link  |  Deployed link |
+|---|---|---|---|---|---|---|
+| Unchained  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Github](https://github.com/hanrattyjen/unchained_blog)   | [Unchained](https://unchainedblog.herokuapp.com/) |
+|  Yelp  | Yelp clone|  5 days | Rails, ActiveRecord, Unit testing and test automation with Rspec, Cucumber & Capybara  |  2 |  [Github](https://github.com/hanrattyjen/yelp) | |
+|  Makers Bnb |Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  | [Github](https://github.com/hanrattyjen/makersbnb)  | |
+|  Makstagram | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara   | Solo  | [Github](https://github.com/hanrattyjen/instagram-challenge)  | |
+|Chitter |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. |Solo |[Github](https://github.com/hanrattyjen/chitter-challenge)| [Deployed to Heroku](https://chitter-chitter-bang-bang.herokuapp.com/) |
 
 
 
