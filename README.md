@@ -12,7 +12,7 @@ I began my coding journey almost accidentally. I did some maths courses online a
 
 I am currently enrolled in the Makers Academy Remote course, 90% at level complete of re-skilling myself completely.
 
-I am also involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop - every time we run it we increase our numbers of applicants. It's amazing!
+I am involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop eve - it's amazing!
 
 #### What I am
 
@@ -29,21 +29,19 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And
 
 Got lots of awesome new skills. My coding skills have jumped massively in the past 3 months, as well as my ability to learn. How I approach new problems and how I can communicate those to other people has improved so much and I'm much more comfortable expressing my ideas.
 
-In week 9, our group of 6 decided to build a test-driven [blogging platform](#projects) using Django and Python even though our combined experience was minimal. In 5 days we managed to build something to be proud of with a lot of potential. This increased our confidence immensely and we can now see that we do have that ability to move between different languages, which is amazing!
-
-Now that I know what can be done in only a few days, I'm very excited to see what I can achieve in the next 6 weeks, 6 months and 6 years.
+Given how far I've come in the past 16 weeks, I'm very excited to see what I can achieve in the next 16 weeks, 16 months and beyond.
 
 #### Focus
 
-I had been self-taught before I was accepted on the Makers Academy course. I had been learning for almost a year before I started, using a mixture of online resources such as Treehouse, Pluralsight, Code Academy, Khan Academy, and tech books.
+I had been self-taught before I was accepted on the Makers Academy course, using a mixture of online resources such as Treehouse, Pluralsight, Code Academy, Khan Academy, and tech books.
 
-I found however that the more I learned, the more I could see how much there actually was out there and I found myself going too many directions, not really knowing the best path to follow.
+The more I learned, the more I realised how much there was to learn.
 
-Whilst I know that there is no set *best* path to follow, Makers Academy did enable me to refine my learning, provided disciple and focus to my learning and provided the best possible way for me to continue post-course on my own.
+Makers Academy enabled me to refine my learning, provided disciple and focus, and provided the best possible way for me to continue post-course on my own.
 
 #### New relationships
 
-I've met so many new people from Makers Academy. Pre-course, I assumed that because I was a remote student, this would be quite a solitary experience. But I was incredibly wrong.
+I've met so many new people from Makers Academy. I assumed that a remote course would make for a solitary experience, but I was incredibly wrong.
 
 The use of XP practices meant that we were assigned a new pair partner every single day. This was quite a daunting thought at the start of the course but it is something that I really got a lot out of and I think it helped progress our learning a lot more than if we were on our own.
 
