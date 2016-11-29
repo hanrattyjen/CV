@@ -17,7 +17,7 @@ I am involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who
 #### What I am
 
 * Incredibly motivated to learn all that I can get my hands on.
-* Curious about how the world works and what I can do to contribute to it.
+* Excited about digital education and what I can do to contribute to it.
 * Organised & practical. 3 small children + Makers Academy === a need to be completely organised all of the time!
 
 I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And you can find me on [LinkedIn](https://www.linkedin.com/in/jennifer-hanratty-6977b8109).
@@ -27,7 +27,7 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And
 
 #### Skills
 
-Got lots of awesome new skills. My coding skills have jumped massively in the past 3 months, as well as my ability to learn. How I approach new problems and how I can communicate those to other people has improved so much and I'm much more comfortable expressing my ideas.
+Gained lots of awesome new skills. My coding skills have jumped massively in the past 3 months, as well as my ability to learn. How I approach new problems and how I can communicate those to other people has improved so much and I'm much more comfortable expressing my ideas.
 
 Given how far I've come in the past 16 weeks, I'm very excited to see what I can achieve in the next 16 weeks, 16 months and beyond.
 
