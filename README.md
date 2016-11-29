@@ -52,7 +52,7 @@ The use of XP practices meant that we were assigned a new pair partner every sin
 |  Yelp  | Yelp clone|  5 days | Rails, ActiveRecord, Unit testing and test automation with Rspec, Cucumber & Capybara  |  2 |  [Github](https://github.com/hanrattyjen/yelp) | |
 |  Makers Bnb |Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  | [Github](https://github.com/hanrattyjen/makersbnb)  | |
 |  Makstagram | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara   | Solo  | [Github](https://github.com/hanrattyjen/instagram-challenge)  | |
-|Chitter |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. |Solo |[Github](https://github.com/hanrattyjen/chitter-challenge)| [Deployed to Heroku](https://chitter-chitter-bang-bang.herokuapp.com/) |
+|Chitter |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. |Solo |[Github](https://github.com/hanrattyjen/chitter-challenge)| [Chitter](https://chitter-chitter-bang-bang.herokuapp.com/) |
 
 
 
