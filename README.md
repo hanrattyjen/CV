@@ -44,7 +44,7 @@ All projects involved a front-end using HTML5, CSS and CSS templates such as Boo
 
 Makers Academy instills valuable qualities on their students during their time on the course. These include vital skills such as teamwork and communication, independent problem-solving and and best practise.
 
-##### Development Approach
+##### *Development Approach*
 
 Instead of formally being taught a language (although we do learn Ruby & Javascript during the course), we are also seen as language-agnostic and taught **how** to learn a language and write clean, readable code.
 
@@ -54,20 +54,20 @@ As well as my coding skills improving massively during my time at Makers Academy
 
 Given how far I've come in the past 16 weeks, I'm very excited to see what I can achieve in the next 16 weeks, 16 months and beyond.
 
-##### Communication
+##### *Communication*
 
 I have met a lot of new people through Makers Academy. I assumed that a remote course would make for a solitary experience, but I was incredibly wrong.
 
 The use of XP practises meant that we were assigned a new pair partner every single day. This was quite a daunting thought at the start of the course but it is something that I really got a lot out of and I think it helped progress our learning a lot more than if we were on our own.
 
-##### Technical skills
+##### *Technical skills*
 
 * Fundamentals of Object Oriented Programming.
 * Ruby, Rails, Sinatra
 * JavaScript, Node.js, Meteor.JS, AJAX, JQuery
 * HTML, CSS, Git
 * Relational databases; Postgres, Datamapper and Active Record
-* Non-relational database Mongo
+* Non-relational database; Mongo
 * REST APIs
 * Testing frameworks such as Rspec, Jasmine. Writing our own testing framework.
 * Made a lot of use of open source - everything we have used has been open source.
