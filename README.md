@@ -10,8 +10,6 @@ It took me a while to figure out what I wanted to do. I love learning; I love ma
 
 I began my coding journey almost accidentally. I did some maths courses online and this led me to some coding courses. It was only after messing around with code for a few months, talking to people and attending meet-ups that I realised that this was something I wanted to do full-time.
 
-I am currently enrolled in the Makers Academy Remote course, 90% at level complete of re-skilling myself completely.
-
 I am involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop - it's amazing!
 
 #### What I am
@@ -22,8 +20,9 @@ I am involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who
 
 I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And you can find me on [LinkedIn](https://www.linkedin.com/in/jennifer-hanratty-6977b8109).
 
-## What I have gotten out of Makers Academy
+## Makers Academy
 
+I recently completed Makers Academy, a highly intensive coding bootcamp completed over 12 weeks. This has enabled me to transition fully into the role of a Junior Developer.
 
 #### Skills
 
@@ -39,16 +38,16 @@ The more I learned, the more I realised how much there was to learn.
 
 Makers Academy enabled me to refine my learning, provided disciple and focus, and provided the best possible way for me to continue post-course on my own.
 
-#### New relationships
+#### Communication
 
 I've met so many new people from Makers Academy. I assumed that a remote course would make for a solitary experience, but I was incredibly wrong.
 
 The use of XP practices meant that we were assigned a new pair partner every single day. This was quite a daunting thought at the start of the course but it is something that I really got a lot out of and I think it helped progress our learning a lot more than if we were on our own.
 
 #### <a name="projects"></a> Projects
-|Projects   |What is it?	| Timescale | Tech used  |  Team |  Deployed link |
+|Projects   |What is it?	| Timescale | Tech used  |  Team | Link |
 |---|---|---|---|---|---|---|
-| [Save A Nation](github link) | A social saving app | 10 days | Meteor.JS, Mocha, Mongo | 6 | [Save A Nation](http://saveanation.herokuapp.com) |
+| [Save A Nation](https://github.com/hanrattyjen/saveanation) | A social saving app | 2 weeks | Meteor.JS, Mocha, Mongo | 6 | [Save A Nation](http://saveanation.herokuapp.com) |
 | [Unchained](https://github.com/hanrattyjen/unchained_blog)  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Unchained](https://unchainedblog.herokuapp.com/) |
 |  [Yelp](https://github.com/hanrattyjen/yelp)  | Yelp clone|  5 days | Rails, ActiveRecord, Unit testing and test automation with Rspec, Cucumber & Capybara  |  2 |  |
 |  [Makers BnB](https://github.com/hanrattyjen/makersbnb) | Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  |  |
