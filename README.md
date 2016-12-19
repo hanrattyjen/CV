@@ -1,6 +1,6 @@
 ## Jennifer Hanratty
 
-Junior Software Developer looking for first full-time technical role in an agile environment.
+Junior Software Developer looking for first full-time technical role in an agile environment.  BLAH CRAP!!!!
 
 #### How I chose this path
 
@@ -10,41 +10,22 @@ It took me a while to figure out what I wanted to do. I love learning; I love ma
 
 I began my coding journey almost accidentally. I did some maths courses online and this led me to some coding courses. It was only after messing around with code for a few months, talking to people and attending meet-ups that I realised that this was something I wanted to do full-time.
 
+I have just graduated from [Makers Academy](http://www.makersacademy.com/), a highly intensive coding bootcamp completed over 12 weeks. This has enabled me to transition fully into the role of a Junior Developer and provided me with many of the fundamental skills required from this role today.
+
 I am involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop - it's amazing!
 
-#### What I am
+#### 3 things about me
 
 * Incredibly motivated to learn all that I can get my hands on.
 * Excited about digital education and what I can do to contribute to it.
 * Organised & practical. 3 small children + Makers Academy === a need to be completely organised all of the time!
 
-I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And you can find me on [LinkedIn](https://www.linkedin.com/in/jennifer-hanratty-6977b8109).
+I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly.
 
-## Makers Academy
-
-I recently completed Makers Academy, a highly intensive coding bootcamp completed over 12 weeks. This has enabled me to transition fully into the role of a Junior Developer.
-
-#### Skills
-
-Gained lots of awesome new skills. My coding skills have jumped massively in the past 3 months, as well as my ability to learn. How I approach new problems and how I can communicate those to other people has improved so much and I'm much more comfortable expressing my ideas.
-
-Given how far I've come in the past 16 weeks, I'm very excited to see what I can achieve in the next 16 weeks, 16 months and beyond.
-
-#### Focus
-
-I had been self-taught before I was accepted on the Makers Academy course, using a mixture of online resources such as Treehouse, Pluralsight, Code Academy, Khan Academy, and tech books.
-
-The more I learned, the more I realised how much there was to learn.
-
-Makers Academy enabled me to refine my learning, provided disciple and focus, and provided the best possible way for me to continue post-course on my own.
-
-#### Communication
-
-I've met so many new people from Makers Academy. I assumed that a remote course would make for a solitary experience, but I was incredibly wrong.
-
-The use of XP practices meant that we were assigned a new pair partner every single day. This was quite a daunting thought at the start of the course but it is something that I really got a lot out of and I think it helped progress our learning a lot more than if we were on our own.
+And you can find me on [LinkedIn](https://www.linkedin.com/in/jennifer-hanratty-6977b8109).
 
 #### <a name="projects"></a> Projects
+
 |Projects   |What is it?	| Timescale | Tech used  |  Team | Link |
 |---|---|---|---|---|---|---|
 | [Save A Nation](https://github.com/hanrattyjen/saveanation) | A social saving app | 2 weeks | Meteor.JS, Mocha, Mongo | 6 | [Save A Nation](http://saveanation.herokuapp.com) |
@@ -55,7 +36,6 @@ The use of XP practices meant that we were assigned a new pair partner every sin
 |[Chitter](https://github.com/hanrattyjen/chitter-challenge) |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. |Solo| [Chitter](https://chitter-chitter-bang-bang.herokuapp.com/) |
 
 
-
 All projects involved a front-end using HTML5, CSS and CSS templates such as Bootstrap or Pure.
 
 
@@ -63,10 +43,27 @@ All projects involved a front-end using HTML5, CSS and CSS templates such as Boo
 
 #### Makers Academy (September - December 2016)
 
-* Instead of being taught a language (which we of course are), we are also seen as language-agnostic and taught **how** to learn a language and write clean, readable code.
-* We are also involved in teamwork, code reviews, best practice, TDD, agile, communication, delivering value to a user - and, most importantly, independent problem-solving.
+Makers Academy instills valuable qualities on their students during their time on the course. These include vital skills such as teamwork and communication, independant problem-solving and and best practise.
+
+##### Non-technical skills
+
+Instead of formally being taught a language (although of course we do learn Ruby & Javascript during the course), we are also seen as language-agnostic and taught **how** to learn a language and write clean, readable code.
+
+We are also involved in agile development, test-driven development and behaviour-driven developemen and delivering value to a user and had code reviews, either as part of a large group or in smaller groups.
+
+As well as my coding skills improving massively in the past 3 months, so has my ability to learn. How I approach new problems and how I can communicate those to other people has been refined so much and I'm much more comfortable expressing my ideas.
+
+Given how far I've come in the past 16 weeks, I'm very excited to see what I can achieve in the next 16 weeks, 16 months and beyond.
+
+##### Communication
+
+I've met so many new people from Makers Academy. I assumed that a remote course would make for a solitary experience, but I was incredibly wrong.
+
+The use of XP practices meant that we were assigned a new pair partner every single day. This was quite a daunting thought at the start of the course but it is something that I really got a lot out of and I think it helped progress our learning a lot more than if we were on our own.
+
+##### Technical skills
+
 * Fundamentals of Object Oriented Programming.
-* Self-sufficient, can ask for help when needed.
 * Ruby, Sinatra, Rails, JavaScript, Node.js, AJAX, JQuery, HTML, CSS, Git.
 * REST APIs
 * Microservices architectures
