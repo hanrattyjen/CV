@@ -42,13 +42,13 @@ All projects involved a front-end using HTML5, CSS and CSS templates such as Boo
 
 #### Makers Academy (September - December 2016)
 
-Makers Academy instills valuable qualities on their students during their time on the course. These include vital skills such as teamwork and communication, independant problem-solving and and best practise.
+Makers Academy instills valuable qualities on their students during their time on the course. These include vital skills such as teamwork and communication, independent problem-solving and and best practise.
 
 ##### Non-technical skills
 
 Instead of formally being taught a language (although of course we do learn Ruby & Javascript during the course), we are also seen as language-agnostic and taught **how** to learn a language and write clean, readable code.
 
-We are also involved in agile development, test-driven development and behaviour-driven developemen and delivering value to a user and had code reviews, either as part of a large group or in smaller groups.
+We are also involved in agile development, TDD and BDD, and delivering value to a user. We had regular code reviews, either as part of a large group or in smaller groups.
 
 As well as my coding skills improving massively in the past 3 months, so has my ability to learn. How I approach new problems and how I can communicate those to other people has been refined so much and I'm much more comfortable expressing my ideas.
 
