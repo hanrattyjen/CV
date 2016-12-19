@@ -1,6 +1,6 @@
 ## Jennifer Hanratty
 
-Junior Software Developer looking for first full-time technical role in an agile environment.  BLAH CRAP!!!!
+Junior Software Developer looking for first technical role in an agile environment.
 
 #### How I chose this path
 
