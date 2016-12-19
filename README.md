@@ -10,7 +10,7 @@ It took me a while to figure out what I wanted to do. I love learning; I love ma
 
 I began my coding journey almost accidentally. I did some maths courses online and this led me to some coding courses. It was only after messing around with code for a few months, talking to people and attending meet-ups that I realised that this was something I wanted to do full-time.
 
-I have just graduated from [Makers Academy](http://www.makersacademy.com/), a highly intensive coding bootcamp completed over 12 weeks. This has enabled me to transition fully into the role of a Junior Developer and provided me with many of the fundamental skills required from this role today.
+I have just graduated from [Makers Academy](http://www.makersacademy.com/), a highly intensive coding bootcamp completed over 16 weeks. This has enabled me to transition fully into the role of a Junior Developer and provided me with many of the fundamental skills required for this role today.
 
 I am involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop - it's amazing!
 
@@ -48,9 +48,9 @@ Makers Academy instills valuable qualities on their students during their time o
 
 Instead of formally being taught a language (although we do learn Ruby & Javascript during the course), we are also seen as language-agnostic and taught **how** to learn a language and write clean, readable code.
 
-We are also involved in agile development, TDD and BDD, and delivering value to a user. We had code reviews, either as part of a large group or in smaller groups.
+We are also involved in agile development, TDD and BDD, and delivering value to a user. We had regular code reviews, either as part of a large group or in smaller groups.
 
-As well as my coding skills improving massively in the past 3 months, so has my ability to learn. How I approach new problems and how I can communicate those to other people has been refined so much and I'm much more comfortable expressing my ideas.
+As well as my coding skills improving massively during my time at Makers Academy, so has my ability to learn. How I approach new problems and how I can communicate those to other people has been refined so much and I'm much more comfortable expressing my ideas.
 
 Given how far I've come in the past 16 weeks, I'm very excited to see what I can achieve in the next 16 weeks, 16 months and beyond.
 
@@ -66,7 +66,7 @@ The use of XP practises meant that we were assigned a new pair partner every sin
 * Ruby, Rails, Sinatra
 * JavaScript, Node.js, Meteor.JS, AJAX, JQuery
 * HTML, CSS, Git
-* Relational databases, Postgres, Datamapper and Active Record
+* Relational databases; Postgres, Datamapper and Active Record
 * Non-relational database Mongo
 * REST APIs
 * Testing frameworks such as Rspec, Jasmine. Writing our own testing framework.
