@@ -30,9 +30,9 @@ And you can find me on [LinkedIn](https://www.linkedin.com/in/jennifer-hanratty-
 |---|---|---|---|---|---|---|
 | [Save A Nation](https://github.com/hanrattyjen/saveanation) | A social saving app | 2 weeks | Meteor.JS, Mocha, Mongo | 6 | [Save A Nation](http://saveanation.herokuapp.com) |
 | [Unchained](https://github.com/hanrattyjen/unchained_blog)  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Unchained](https://unchainedblog.herokuapp.com/) |
-|  [Makers BnB](https://github.com/hanrattyjen/makersbnb) | Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  |  |
+|  [Makers BnB](https://github.com/hanrattyjen/makersbnb) | Airbnb Clone | 5 days  | Sinatra, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  |  |
 |  [Makstagram](https://github.com/hanrattyjen/instagram-challenge) | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara   | Solo  | |
-|[Chitter](https://github.com/hanrattyjen/chitter-challenge) |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. |Solo| [Chitter](https://chitter-chitter-bang-bang.herokuapp.com/) |
+|[Chitter](https://github.com/hanrattyjen/chitter-challenge) |Twitter Clone |2 days |Sinatra, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. |Solo| [Chitter](https://chitter-chitter-bang-bang.herokuapp.com/) |
 
 
 All projects involved a front-end using HTML5, CSS and CSS templates such as Bootstrap or Pure.
