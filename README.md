@@ -31,6 +31,7 @@ And you can find me on [LinkedIn](https://www.linkedin.com/in/jennifer-hanratty-
 | [Save A Nation](https://github.com/hanrattyjen/saveanation) | A social saving app | 2 weeks | Meteor.JS, Mocha, Mongo | 6 | [Save A Nation](http://saveanation.herokuapp.com) |
 | [Unchained](https://github.com/hanrattyjen/unchained_blog)  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Unchained](https://unchainedblog.herokuapp.com/) |
 |  [Yelp](https://github.com/hanrattyjen/yelp)  | Yelp clone|  5 days | Rails, ActiveRecord, Unit testing and test automation with Rspec, Cucumber & Capybara  |  2 |  |
+|  [Makers BnB](https://github.com/hanrattyjen/makersbnb) | Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  |  |
 |  [Makstagram](https://github.com/hanrattyjen/instagram-challenge) | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara   | Solo  | |
 |[Chitter](https://github.com/hanrattyjen/chitter-challenge) |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. |Solo| [Chitter](https://chitter-chitter-bang-bang.herokuapp.com/) |
 
@@ -42,13 +43,13 @@ All projects involved a front-end using HTML5, CSS and CSS templates such as Boo
 
 #### Makers Academy (September - December 2016)
 
-Makers Academy instills valuable qualities on their students during their time on the course. These include vital skills such as teamwork and communication, independent problem-solving and and best practise.
+Makers Academy instills valuable qualities on their students during their time on the course. These include vital skills such as teamwork and communication, independant problem-solving and and best practise.
 
 ##### Non-technical skills
 
 Instead of formally being taught a language (although of course we do learn Ruby & Javascript during the course), we are also seen as language-agnostic and taught **how** to learn a language and write clean, readable code.
 
-We are also involved in agile development, TDD and BDD, and delivering value to a user. We had regular code reviews, either as part of a large group or in smaller groups.
+We are also involved in agile development, TDD and BDD, and delivering value to a user. We had code reviews, either as part of a large group or in smaller groups.
 
 As well as my coding skills improving massively in the past 3 months, so has my ability to learn. How I approach new problems and how I can communicate those to other people has been refined so much and I'm much more comfortable expressing my ideas.
 
