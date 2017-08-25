@@ -103,18 +103,24 @@ The use of XP practises meant that we were assigned a new pair partner each day.
 
 ## Projects
 
-Save A Nation - A Social Saving app | Tech used: Meteor.JS, Mocha, Mongo | [Code](https://github.com/hanrattyjen/saveanation) | [Link](http://saveanation.herokuapp.com)
+#### Save A Nation - A Social Saving app
+* Tech used: Meteor.JS, Mocha, Mongo
+* [Code](https://github.com/hanrattyjen/saveanation)
+* [Link](http://saveanation.herokuapp.com)
 
-Unchained - A Blogging Platform | Tech used: Python, Django, Unittest, JavaScript, JQuery, Postgres  | [Code](https://github.com/hanrattyjen/unchained_blog) | [Link](https://unchainedblog.herokuapp.com/)
+#### Unchained - A Blogging Platform
+* Tech used: Python, Django, Unittest, JavaScript, JQuery, Postgres
+* [Code](https://github.com/hanrattyjen/unchained_blog)
+* [Link](https://unchainedblog.herokuapp.com/)
 
-Makers BnB - An Airbnb Clone | Tech used: Using Sinatra, Datamapper & Postgres, Unit testing and test automation with Rspec & Capybara | [Code](https://github.com/hanrattyjen/makersbnb)
+#### Makers BnB - An Airbnb Clone
+* Tech used: Using Sinatra, Datamapper & Postgres, Unit testing and test automation with Rspec & Capybara
+* [Code](https://github.com/hanrattyjen/makersbnb)
 
-Makstagram - An Instagram Clone | Tech used: Rails, ActiveRecord & Postgres, Unit testing and test automation with Rspec & Capybara | [Code](https://github.com/hanrattyjen/instagram-challenge)
+#### Makstagram - An Instagram Clone
+* Tech used: Rails, ActiveRecord & Postgres, Unit testing and test automation with Rspec & Capybara * [Code](https://github.com/hanrattyjen/instagram-challenge)
 
-Chitter - A Twitter Clone | Tech used: Sinatra, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara | [Code](https://github.com/hanrattyjen/chitter-challenge) | [Link](https://chitter-chitter-bang-bang.herokuapp.com/)
-
-
-All projects involved a front-end using HTML5, CSS and CSS templates such as Bootstrap or Pure.
+The projects above were completed during my time at Makers Academy. They are a mix of group and solo projects completed over the course of a few days. All involved a front-end using HTML5, CSS and CSS templates such as Bootstrap or Pure and developed using TDD.
 
 #### Google Women Techmakers Summit May 2017
 * I was part of the organising team that delivered the Belfast summit. We sold out an event that delivered inspiring talks from key Northern Ireland women in tech. As part of this, I also organised an evening of [Codebar](https://codebar.io/) workshops covering a breadth of languages with 45 people participating and 12 coaches in attendance.
