@@ -103,13 +103,15 @@ The use of XP practises meant that we were assigned a new pair partner each day.
 
 ## Projects
 
-|Projects   |What is it?	| Timescale | Tech used | Link
-|---|:---:|:---:|:---:|:---:|:---:|---:|
- [Save A Nation](https://github.com/hanrattyjen/saveanation) | A social saving app | 2 weeks | Meteor.JS, Mocha, Mongo | [Save A Nation](http://saveanation.herokuapp.com) |
-| [Unchained](https://github.com/hanrattyjen/unchained_blog)  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres  | [Unchained](https://unchainedblog.herokuapp.com/) |
-|  [Makers BnB](https://github.com/hanrattyjen/makersbnb) | Airbnb Clone | 5 days  | Sinatra, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  |  |
-|  [Makstagram](https://github.com/hanrattyjen/instagram-challenge) | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara  | |
-|[Chitter](https://github.com/hanrattyjen/chitter-challenge) |Twitter Clone |2 days |Sinatra, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara| [Chitter](https://chitter-chitter-bang-bang.herokuapp.com/) |
+Save A Nation - A Social Saving app | Tech used: Meteor.JS, Mocha, Mongo | [Code](https://github.com/hanrattyjen/saveanation) | [Link](http://saveanation.herokuapp.com)
+
+Unchained - A Blogging Platform | Tech used: Python, Django, Unittest, JavaScript, JQuery, Postgres  | [Code](https://github.com/hanrattyjen/unchained_blog) | [Link](https://unchainedblog.herokuapp.com/)
+
+Makers BnB - An Airbnb Clone | Tech used: Using Sinatra, Datamapper & Postgres, Unit testing and test automation with Rspec & Capybara | [Code](https://github.com/hanrattyjen/makersbnb)
+
+Makstagram - An Instagram Clone | Tech used: Rails, ActiveRecord & Postgres, Unit testing and test automation with Rspec & Capybara | [Code](https://github.com/hanrattyjen/instagram-challenge)
+
+Chitter - A Twitter Clone | Tech used: Sinatra, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara | [Code](https://github.com/hanrattyjen/chitter-challenge) | [Link](https://chitter-chitter-bang-bang.herokuapp.com/)
 
 
 All projects involved a front-end using HTML5, CSS and CSS templates such as Bootstrap or Pure.
