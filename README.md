@@ -118,7 +118,8 @@ The use of XP practises meant that we were assigned a new pair partner each day.
 * [Code](https://github.com/hanrattyjen/makersbnb)
 
 #### Makstagram - An Instagram Clone
-* Tech used: Rails, ActiveRecord & Postgres, Unit testing and test automation with Rspec & Capybara * [Code](https://github.com/hanrattyjen/instagram-challenge)
+* Tech used: Rails, ActiveRecord & Postgres, Unit testing and test automation with Rspec & Capybara
+* [Code](https://github.com/hanrattyjen/instagram-challenge)
 
 The projects above were completed during my time at Makers Academy. They are a mix of group and solo projects completed over the course of a few days. All involved a front-end using HTML5, CSS and CSS templates such as Bootstrap or Pure and developed using TDD.
 
